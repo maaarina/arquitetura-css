@@ -1,0 +1,13 @@
+.cabecalho__item {
+    list-style: none;
+    margin-right: 1.25rem;
+}
+
+.cabecalho__item:first-child {
+    color: #333333;
+    font-weight: bold;
+}
+
+.cabecalho__item:last-child{
+    margin-right: 0;
+}
